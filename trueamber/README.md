@@ -10,4 +10,4 @@
 
 [screenshot 3](images/trueAmber3.jpeg)
 
-B)
+:sunglasses:
