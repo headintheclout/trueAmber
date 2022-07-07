@@ -12,4 +12,5 @@ http://keepachangelog.com/
 
 - Updated Syntax color pallate 
 - Added more orange to Side Bar
+- Changed button colors
 - Updated README.md 
