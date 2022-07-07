@@ -14,3 +14,6 @@ http://keepachangelog.com/
 - Added more orange to Side Bar
 - Changed button colors
 - Updated README.md 
+
+## [0.0.3] - 2022-07-07
+- even more little changes...
