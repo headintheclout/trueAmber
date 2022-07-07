@@ -1,0 +1,27 @@
+{
+    "name": "trueamber",
+    "displayName": "trueAmber",
+    "description": "an amber theme with modern functionality - inspired by vintage amber monitors",
+    "version": "0.0.1",
+    "publisher": "headintheclout",
+    "icon": "images/trueAmber.png",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "trueAmber",
+                "uiTheme": "vs-dark",
+                "path": "./themes/trueAmber-color-theme.json"
+            }
+        ]
+    },
+    "galleryBanner": {
+        "color": "#1E0D00",
+        "theme": "light"
+      }
+}
