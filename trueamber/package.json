@@ -2,7 +2,7 @@
     "name": "trueamber",
     "displayName": "trueAmber",
     "description": "an amber theme with modern functionality - inspired by vintage amber monitors",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "headintheclout",
     "icon": "images/trueAmber.png",
     "engines": {
