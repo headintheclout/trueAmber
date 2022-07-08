@@ -8,7 +8,7 @@
 
 ### screenshots:
 
-![screenshot 1](https://raw.githubusercontent.com/headintheclout/trueAmber/blob/main/trueamber/images/trueAmber1.png)
+![screenshot 1](https://raw.githubusercontent.com/headintheclout/trueAmber/main/trueamber/images/trueAmber1.png)
 
 B)
 
