@@ -17,3 +17,7 @@ http://keepachangelog.com/
 
 ## [0.0.3] - 2022-07-07
 - even more little changes...
+
+## [0.0.4] - 2022-07-07
+- changes to README.md
+- changes to 
