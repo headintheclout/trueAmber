@@ -27,8 +27,9 @@
     "type": "git",
     "url": "https://github.com/headintheclout/trueAmber"
   },
+    "keywords":["amber", "brown", "terminal", "hacker", "night","natural","retro", "cool", "orange","theme", "dark","color", "vintage", "pink","girls", "fun", "functional"],
     "galleryBanner": {
         "color": "#1E0D00",
-        "theme": "light"
+        "theme": "dark"
       }
 }
