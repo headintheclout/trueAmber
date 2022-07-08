@@ -10,6 +10,9 @@
 
 ![screenshot 1](https://raw.githubusercontent.com/headintheclout/trueAmber/main/trueamber/images/trueAmber1.png)
 
-B)
+😎
 
+## issues & suggestions
+
+for any issues or suggestions, please use [GitHub issues](https://github.com/headintheclout/trueAmber/issues).
 

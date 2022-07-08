@@ -21,3 +21,8 @@ http://keepachangelog.com/
 ## [0.0.4] - 2022-07-07
 - changes to README.md
 - other small beans
+
+## [0.0.5] -- 2022-07-08
+- changes to highlight and find colors
+- added sunglasses emoji to readme
+- other small beans
