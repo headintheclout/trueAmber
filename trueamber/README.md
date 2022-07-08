@@ -1,4 +1,4 @@
-# the coolest theme for vs code
+### the coolest theme for vs code
 
 > "trueAmber is the coolest theme for vs code" - cool guy
 
