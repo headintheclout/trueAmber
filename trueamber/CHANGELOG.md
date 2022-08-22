@@ -26,3 +26,6 @@ http://keepachangelog.com/
 - changes to highlight and find colors
 - added sunglasses emoji to readme
 - other small beans
+
+## [1.0.0] -- 2022-08-20
+- change to main theme color from #1B0D00 to #1E0D00
