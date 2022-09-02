@@ -1,10 +1,6 @@
-### the coolest theme for vs code
+### reduce eyestrain – choose trueAmber
 
-> "trueAmber is the coolest theme for vs code" - cool guy
-
-> "leave a review if you think it's a cool theme" - different cool guy
-
-> "trueAmber will be refined until it reaches perfection" - third cool guy
+> a simple amber theme inspired by vintage P3 phosphor amber monitors, the preferred choice for improved ergonomics
 
 ### screenshots:
 
