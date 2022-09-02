@@ -29,3 +29,29 @@ http://keepachangelog.com/
 
 ## [1.0.0] -- 2022-08-20
 - change to main theme color from #1B0D00 to #1E0D00
+
+## [1.0.1] -- 2022-08-20
+- fixed bug
+
+## [1.0.2] -- 2022-08-22
+- removed scrollbar shadow
+- updated scrollbar to be in line with amber theme
+- menu background changed
+- activity bar border added
+- side bar border added
+- terminal panel color changed
+
+## [1.0.3] -- 2022-08-22
+- scrollbar background changed
+- editor ruler changed
+
+## [1.0.4] -- 2022-08-22
+- fix scrollbar
+
+## [1.0.5] -- 2022-08-22
+- update terminal border
+- update terminal selection color
+
+## [1.0.6] -- 2022-08-31
+- update terminal cursor color
+- change main theme color from #1E0D00 to #220c00

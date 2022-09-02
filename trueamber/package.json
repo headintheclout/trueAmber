@@ -1,8 +1,8 @@
 {
     "name": "trueamber",
     "displayName": "trueAmber",
-    "description": "an amber theme with modern functionality - inspired by vintage amber monitors",
-    "version": "1.0.1",
+    "description": "reduce eyestrain – choose trueAmber",
+    "version": "1.0.6",
     "publisher": "headintheclout",
     "icon": "images/trueAmber.png",
     "engines": {
@@ -27,9 +27,9 @@
     "type": "git",
     "url": "https://github.com/headintheclout/trueAmber"
   },
-    "keywords":["amber", "fallout", "theme","brown", "terminal", "hacker", "night","natural","retro", "cool", "orange","theme", "dark","color", "vintage", "pink","girls", "fun", "functional", "warm"],
+    "keywords":["amber", "fallout", "theme","brown", "terminal", "hacker", "night","natural","retro", "cool", "orange","theme", "dark","color", "vintage", "pink","girls", "fun", "functional", "warm", "simple"],
     "galleryBanner": {
-        "color": "#1E0D00",
+        "color": "#220c00",
         "theme": "dark"
       }
 }
