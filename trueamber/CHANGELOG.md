@@ -55,3 +55,8 @@ http://keepachangelog.com/
 ## [1.0.6] -- 2022-08-31
 - update terminal cursor color
 - change main theme color from #1E0D00 to #220c00
+
+## [1.0.7] -- 2022-10-09
+- add highlight to current tab
+- darken inactive tab color
+- more transparent cursor line highlight color

@@ -1,6 +1,14 @@
 ### reduce eyestrain – choose trueAmber
 
-> a simple amber theme inspired by vintage P3 phosphor amber monitors, the preferred choice for improved ergonomics
+## the intersection of ergonomics and aesthetics
+
+> trueAmber is a simple amber theme inspired by vintage P3 phosphor amber monitors, the preferred choice for improved ergonomics
+
+[Click here to download theme](https://marketplace.visualstudio.com/items?itemName=headintheclout.trueamber)
+
+## P3 phosphor amber monitor reference photo:
+
+![monitor](https://raw.githubusercontent.com/headintheclout/trueAmber/main/trueamber/images/mono_amber.jpeg)
 
 ### screenshots:
 

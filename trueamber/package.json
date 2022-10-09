@@ -2,7 +2,7 @@
     "name": "trueamber",
     "displayName": "trueAmber",
     "description": "reduce eyestrain – choose trueAmber",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "publisher": "headintheclout",
     "icon": "images/trueAmber.png",
     "engines": {
@@ -27,7 +27,7 @@
     "type": "git",
     "url": "https://github.com/headintheclout/trueAmber"
   },
-    "keywords":["amber", "fallout", "theme","brown", "terminal", "hacker", "night","natural","retro", "cool", "orange","theme", "dark","color", "vintage", "pink","girls", "fun", "functional", "warm", "simple"],
+    "keywords":["amber", "fallout", "theme","brown", "terminal", "hacker", "night","natural","retro", "cool", "orange","theme", "dark","color", "vintage", "pink","girls", "fun", "functional", "warm", "simple", "aesthetic"],
     "galleryBanner": {
         "color": "#220c00",
         "theme": "dark"
