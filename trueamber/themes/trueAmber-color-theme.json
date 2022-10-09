@@ -2000,7 +2000,7 @@
     "breadcrumb.background": "#220c00",
     "breadcrumb.foreground": "#966900",
     "breadcrumb.focusForeground": "#ffb000",
-    "editorGroupHeader.tabsBackground": "#281100",
+    "editorGroupHeader.tabsBackground": "#220c00",
     "editorGroupHeader.border": "#281100",
     "tab.activeForeground": "#ffb000",
     "tab.border": "#00000050",
