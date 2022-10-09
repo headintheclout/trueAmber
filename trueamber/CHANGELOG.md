@@ -60,3 +60,6 @@ http://keepachangelog.com/
 - add highlight to current tab
 - darken inactive tab color
 - more transparent cursor line highlight color
+
+## [1.0.8] -- 2022-10-09
+- reformat README.md
