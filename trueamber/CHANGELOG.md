@@ -4,34 +4,35 @@ All notable changes to the "trueamber" extension will be documented in this file
 
 http://keepachangelog.com/
 
-## [0.0.1] - 2022-07-06
+## [1.0.10] - 2026-06-12
+- Align UI outlines and hover accents to amber (replaced various grey outlines with amber/hover colors).
+- Packaged trueamber-1.0.10.vsix and added to repository.
+ 
+## [1.0.9] -- 2022-11-08
+- changed main orange from #ffb000 to #ffac00 (deeper orange color)
 
-- Initial release
+## [1.0.8] -- 2022-10-09
+- reformat README.md
 
-## [0.0.2] - 2022-07-07
+## [1.0.7] -- 2022-10-09
+- add highlight to current tab
+- darken inactive tab color
+- more transparent cursor line highlight color
 
-- Updated Syntax color pallate 
-- Added more orange to Side Bar
-- Changed button colors
-- Updated README.md 
+## [1.0.6] -- 2022-08-31
+- update terminal cursor color
+- change main theme color from #1E0D00 to #220c00
 
-## [0.0.3] - 2022-07-07
-- even more little changes...
+## [1.0.5] -- 2022-08-22
+- update terminal border
+- update terminal selection color
 
-## [0.0.4] - 2022-07-07
-- changes to README.md
-- other small beans
+## [1.0.4] -- 2022-08-22
+- fix scrollbar
 
-## [0.0.5] -- 2022-07-08
-- changes to highlight and find colors
-- added sunglasses emoji to readme
-- other small beans
-
-## [1.0.0] -- 2022-08-20
-- change to main theme color from #1B0D00 to #1E0D00
-
-## [1.0.1] -- 2022-08-20
-- fixed bug
+## [1.0.3] -- 2022-08-22
+- scrollbar background changed
+- editor ruler changed
 
 ## [1.0.2] -- 2022-08-22
 - removed scrollbar shadow
@@ -41,28 +42,29 @@ http://keepachangelog.com/
 - side bar border added
 - terminal panel color changed
 
-## [1.0.3] -- 2022-08-22
-- scrollbar background changed
-- editor ruler changed
+## [1.0.1] -- 2022-08-20
+- fixed bug
 
-## [1.0.4] -- 2022-08-22
-- fix scrollbar
+## [1.0.0] -- 2022-08-20
+- change to main theme color from #1B0D00 to #1E0D00
 
-## [1.0.5] -- 2022-08-22
-- update terminal border
-- update terminal selection color
+## [0.0.5] -- 2022-07-08
+- changes to highlight and find colors
+- added sunglasses emoji to readme
+- other small beans
 
-## [1.0.6] -- 2022-08-31
-- update terminal cursor color
-- change main theme color from #1E0D00 to #220c00
+## [0.0.4] - 2022-07-07
+- changes to README.md
+- other small beans
 
-## [1.0.7] -- 2022-10-09
-- add highlight to current tab
-- darken inactive tab color
-- more transparent cursor line highlight color
+## [0.0.3] - 2022-07-07
+- even more little changes...
 
-## [1.0.8] -- 2022-10-09
-- reformat README.md
+## [0.0.2] - 2022-07-07
+- Updated Syntax color pallate 
+- Added more orange to Side Bar
+- Changed button colors
+- Updated README.md 
 
-## [1.0.9] -- 2022-11-08
-- changed main orange from #ffb000 to #ffac00 (deeper orange color)
+## [0.0.1] - 2022-07-06
+- Initial release
